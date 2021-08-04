@@ -1,0 +1,25 @@
+{
+  "name": "UNXD Token",
+  "description": "A UNXD Token For You",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png",
+  "attributes": [
+    {
+      "trait_type": "Redeemable", 
+      "value": "Aug 5, GMT +0"
+    }, 
+    {
+      "trait_type": "Unlock", 
+      "value": "Unlocked"
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Redeem Timeline", 
+      "value": 50
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Edition", 
+      "value": 1
+    }
+  ]
+}
