@@ -1,0 +1,7 @@
+{
+	"Sports": ["Sport1", "Sport2", "Sport3", "Sport4"],
+	"Politics": ["Politics1", "Politics2", "Politics3", "Politics4"],
+	"Movie": ["Movie1", "Movie2", "Movie3", "Movie4"],
+	"Currency": ["Currency1", "Currency2", "Currency3", "Currency4"],
+	"AnotherMeta": ["Meta", "Fusion"]
+}
